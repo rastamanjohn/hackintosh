@@ -2,6 +2,7 @@
 
 I was initially having problems with the disk, it was saying that it couldn't be formatted to APFS... Solved with this combination of drivers + formatting to APFS in Disk Utility (pre install).
 Also, I'm trying to dual boot with Win10 on a separate disk.
+I followed the guide at hackintosh.gitbook.io, so vanilla method. The config.plist isn't updated, I'll have to figure out what I need to censor before I upload it again xD.
 
 ### hardware:
 - Core i9 9900K
